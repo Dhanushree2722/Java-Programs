@@ -1,19 +1,2 @@
 
----
-
-### 2. README.md inside each subfolder
-For example, in **`prgm1/README.md`**:
-
-```markdown
-# Program 1: Employee Details
-
-This program demonstrates the use of **classes and objects** in Java.
-
-## Files
-- `Employee.java` → Defines the Employee class  
-- `Main.java` → Contains the main method to run the program  
-
-## How to Run
-```bash
-javac Employee.java Main.java
-java Main
+<img width="601" height="509" alt="image" src="https://github.com/user-attachments/assets/6cbaf1ca-4775-4150-bdf5-8d6a7105ef39" />
