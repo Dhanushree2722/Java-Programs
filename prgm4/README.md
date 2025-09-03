@@ -50,6 +50,10 @@ Name: Dhanu, Age: 18, Gender: FEMALE
 7. Exit
 Enter your choice: 7
 Exiting...
+
+
+
+
 OUTPUT 2 :
 Choose initialization:
 1. Empty stack with size
