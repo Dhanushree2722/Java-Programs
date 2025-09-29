@@ -1,0 +1,25 @@
+OUTPUT :
+******Banking System Menu ******
+1. Deposit
+2. Withdraw
+3. Show Balance
+4. Exit
+Enter your choice: 1
+Enter amount to deposit: 2200
+Successfully deposited: 2200.0
+
+******Banking System Menu ******
+1. Deposit
+2. Withdraw
+3. Show Balance
+4. Exit
+Enter your choice: 3
+Account No: 27 | Name: Dhanushree | Balance: 24200.0
+
+******Banking System Menu ******
+1. Deposit
+2. Withdraw
+3. Show Balance
+4. Exit
+Enter your choice: 4
+Thank you for using our Banking System!
