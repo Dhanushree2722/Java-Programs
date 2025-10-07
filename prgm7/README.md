@@ -1,3 +1,4 @@
+OUTPUT :
 Produced: Exam on Tuesday
 Consumed: Exam on Tuesday
 Produced: Holiday on Sunday
